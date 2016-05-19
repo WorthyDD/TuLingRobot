@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BF606EBDF3315E78ADBE432953A5D9CE4697B7ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BF606EBDF3315E78ADBE432953A5D9CE4697B7ED" : 0,
+    "FF09720136F2BCE75A2474750E6C437C1B22F3F6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ECB9541F-665E-4134-88E2-C082649F58BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BF606EBDF3315E78ADBE432953A5D9CE4697B7ED" : "workspace\/",
+    "FF09720136F2BCE75A2474750E6C437C1B22F3F6" : "Documents\/xxkuaipao\/ios-xxkuaipao\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "图灵机器人",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "图灵机器人\/图灵机器人.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WorthyDD\/AirMonitor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BF606EBDF3315E78ADBE432953A5D9CE4697B7ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "db.papayamobile.com:kiwi\/ios-xxkuaipao.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FF09720136F2BCE75A2474750E6C437C1B22F3F6"
+    }
+  ]
+}
